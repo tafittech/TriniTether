@@ -25,7 +25,7 @@ contract TriniTether is ERC20Capped, ERC20Burnable {
             _mintMinerReward();
 
         }
-        super._beforeTokenTransfer(from,to,value)
+        super._beforeTokenTransfer(from,to,value);
     }
 
     function setBlockReward(uint256 reward) public onlyOwner {
