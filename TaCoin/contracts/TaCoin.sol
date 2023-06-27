@@ -1,4 +1,6 @@
 //Trin Tether Token
+// security-comments-tafittechtt@gmail.com
+//coded-Tafit Tech Limited 
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.8.9 <0.8.21;
 
